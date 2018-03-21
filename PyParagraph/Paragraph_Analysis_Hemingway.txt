@@ -1,0 +1,6 @@
+Paragraph Analysis - Hemingway.txt
+-------------------------------------
+Approx. Word Count: 126
+Approx. Sentence Count: 4
+Avg. Letters per Word: 4.166666666666667
+Avg. Words per Sentence: 32.25
