@@ -1,7 +1,0 @@
-Financial Analysis - budget_data_2
--------------------------------------
-Total Months: 86
-Total Revenue: $36973911
-Average Revenue Change: $5955.31
-Greatest Increase in Revenue: May-2014 $1947745
-Greatest Decrease in Revenue: Jun-2014 $-1645140
